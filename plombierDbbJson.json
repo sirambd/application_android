@@ -1,0 +1,58 @@
+{
+  "securite":[
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "sécurité",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité X",
+      "contenu" : "None"
+    }
+  ],
+  "regles": [
+    {
+      "image": "None",
+      "titre" : "regles",
+      "contenu" : ""
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    }
+  ],
+  "bonnes_pratiques": [
+    {
+      "image": "None",
+      "titre" : "bonnes pratiques",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    },
+    {
+      "image": "None",
+      "titre" : "Groupe de sécurité 889",
+      "contenu" : "None"
+    }
+  ]
+}
