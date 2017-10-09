@@ -3,8 +3,20 @@
     {
       "id" : 1,
       "image": "Nonet",
-      "titre" : "Groupe de sécurité 889",
-      "contenu" : "Sécurité pourri"
+      "titre" : "Manutention et postures",
+      "contenu" : "<ul>Circonstances :
+<li>Port de charges lourdes (chaudière, radiateurs, ballons d'eau chaude, outillage électroportatif...)</li>
+<li>Blessure lors des travaux</li>
+<li>Postures contraignantes, torsions, travail à genoux, travail en force, amplitudes articulaires, bras au dessus des épaules, travail dans des espaces restreints et confinés...</li>
+ </ul>
+      <ul>Moyens de prévention :
+<li>Utiliser des aides à la manutention (chariots, diables, monte-matériaux, lève-chauffeau-eau, lève-radiateur, caisse à outils sur roulettes...)</li>
+<li>Approvisionner les matériaux au plus près de la zone de travail</li>
+<li>Privilégier la manutention à plusieurs lorsqu'aucune aide mécanisée n'est possible</li>
+<li>Privilégier des outils et machines portative dont le poids est réduit</li>
+<li>Prévoir une rampe pour décharger les charges lourdes du véhicule</li>
+<li>Porter des gants de manutention adaptés</li>
+<li>Informer et former les salariés du risque (formation type PRAP ou Gestes et Postures)</li></ul> "
     },
     {
       "id" : 2,
